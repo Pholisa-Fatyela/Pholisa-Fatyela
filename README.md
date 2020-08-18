@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Pholisa👋🏾 👩🏾‍💻
+
+![Pholisa's github stats](https://github-readme-stats.vercel.app/api?username=Pholisa-Fatyela&show_icons=true)
+
+🔭 I’m currently working on improving my skills, reach in my community and set an example to all the aspiring female developers.
+
+🌱 I’m currently learning ...
+
+👯 I’m looking to collaborate on ...
+
+🤔 I’m looking for help with reaching all females and showing them that we have a place in this industry as well.
+
+💬 Ask me about ...
+
+📫 How to reach me: pholisafatyela@gmail.com
+
+😄 Pronouns: she, her, them
+
+⚡ Fun fact: Lover of dogs. Love to learn new things.
 
 <!--
 **Pholisa-Fatyela/Pholisa-Fatyela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
